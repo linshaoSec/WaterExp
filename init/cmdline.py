@@ -11,7 +11,7 @@ binner2="""
                             
               Auth0r:linshao   [网站漏洞模板(42个常见漏洞).docx]辅助挖洞脚本
               这是什么: 一款面向安服仔的漏洞碰瓷工具
-              公众号: 黑客start  github: https://github.com/linshaoSec
+              公众号: LinshaoSec  github: https://github.com/linshaoSec
 """
 binner="""
 
