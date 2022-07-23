@@ -1,3 +1,4 @@
+
 ![30x30](https://user-images.githubusercontent.com/96420060/179494641-89ede898-38fb-42dd-b0e2-d36d643dd847.jpg)
 
 
@@ -36,3 +37,6 @@
 绕过您有更多的好检测的洞请告诉我添加进去哦~
 互相帮助才能打更好的工，摸更漂亮的鱼
 ![image](https://user-images.githubusercontent.com/96420060/179471886-be0d8b6c-9f5a-4ccb-85e1-b1569dd13682.png)
+
+# Star
+[![Stargazers over time](https://starchart.cc/linshaoSec/WaterExp.svg)](https://starchart.cc/linshaoSec/WaterExp)
