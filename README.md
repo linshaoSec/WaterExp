@@ -28,7 +28,7 @@
 
 # 运行截图
 
-![image](https://user-images.githubusercontent.com/96420060/179387411-f5576c0d-8fa1-40be-ad82-8bedb0a9932b.png)
+![image](https://user-images.githubusercontent.com/96420060/189296502-106c8c34-8982-4f6d-a60a-61ddd1f8c7ac.png)
 
 扫描结果
 ![image](https://user-images.githubusercontent.com/96420060/179387420-0bc4d65c-5d74-4ea4-a476-23b6409c8c48.png)
