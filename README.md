@@ -39,4 +39,4 @@
 ![image](https://user-images.githubusercontent.com/96420060/179471886-be0d8b6c-9f5a-4ccb-85e1-b1569dd13682.png)
 
 # Star
-[![Stargazers over time](https://starchart.cc/linshaoSec/WaterExp.svg)](https://starchart.cc/linshaoSec/WaterExp)
+[![Stargazers over time](![image](https://user-images.githubusercontent.com/96420060/189293077-6e2ea6ed-9203-438f-b803-fee8e1c5eb1a.png))
