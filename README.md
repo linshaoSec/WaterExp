@@ -38,7 +38,8 @@
 互相帮助才能打更好的工，摸更漂亮的鱼过期加拉哦
 
 ![image](https://user-images.githubusercontent.com/96420060/189295166-8e2a46f4-b9b0-4339-9e5d-7389334dca7a.png)
-![image](https://user-images.githubusercontent.com/96420060/189295619-a959bb64-5295-4a3d-b091-d88ff47a3778.png)
+
+![image](https://user-images.githubusercontent.com/96420060/195889411-34b82fd4-8f22-416c-b781-d3b256a00d2b.png)
 
 
 # Star
